@@ -1,4 +1,4 @@
-# @title Maven Settings Platform Dependent
+# @title /!\ Maven Settings Platform Dependent
 # @description Maven Settings : installation location
 # @task_type LASTMOD
 /instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime=C\:\\apps\\apache-maven-3.2.1
