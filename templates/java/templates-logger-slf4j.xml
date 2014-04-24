@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<templates>
+	<template autoinsert="true" context="java-statements" deleted="false" description="debug for slf4j" enabled="true" name="debug">LOGGER.debug("${message}"${});${cursor}</template>
+	<template autoinsert="true" context="java-statements" deleted="false" description="debug for slf4j with parameter" enabled="true" name="debug">LOGGER.debug("${begin} '{}' ${end}", ${parameter});${cursor}</template>
+	<template autoinsert="true" context="java-statements" deleted="false" description="error for slf4j" enabled="true" name="error">LOGGER.error("${message}"${});${cursor}</template>
+	<template autoinsert="true" context="java-statements" deleted="false" description="error for slf4j with parameter" enabled="true" name="error">LOGGER.error("${begin} '{}' ${end}", ${parameter});${cursor}</template>
+	<template autoinsert="true" context="java-statements" deleted="false" description="info for slf4j" enabled="true" name="info">LOGGER.info("${message}"${});${cursor}</template>
+	<template autoinsert="true" context="java-statements" deleted="false" description="info for slf4j with parameter" enabled="true" name="info">LOGGER.info("${begin} '{}' ${end}", ${parameter});${cursor}</template>
+	<template autoinsert="true" context="java-members" deleted="false" description="logger slf4j" enabled="true" name="logger">private final Logger LOGGER = LoggerFactory.getLogger(getClass());${:import(org.slf4j.Logger, org.slf4j.LoggerFactory)}</template>
+	<template autoinsert="true" context="java-statements" deleted="false" description="trace for slf4j" enabled="true" name="trace">LOGGER.trace("${message}"${});${cursor}</template>
+	<template autoinsert="true" context="java-statements" deleted="false" description="trace for slf4j with parameter" enabled="true" name="trace">LOGGER.trace("${begin} '{}' ${end}", ${parameter});${cursor}</template>
+	<template autoinsert="true" context="java-statements" deleted="false" description="warn for slf4j" enabled="true" name="warn">LOGGER.warn("${message}"${});${cursor}</template>
+	<template autoinsert="true" context="java-statements" deleted="false" description="warn for slf4j with parameter" enabled="true" name="warn">LOGGER.warn("${begin} '{}' ${end}", ${parameter});${cursor}</template>
+</templates>

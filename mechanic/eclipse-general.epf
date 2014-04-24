@@ -1,0 +1,9 @@
+# @title General Configuration for Eclipse
+# @description Eclipse General Settings : Appearence / Compare / Startup and Shutdown / Encoding UTF-8
+# @task_type LASTMOD
+/instance/org.eclipse.ui.editors/overviewRuler_migration=migrated_3.1
+/instance/org.eclipse.compare/org.eclipse.compare.IgnoreWhitespace=true
+/instance/org.eclipse.e4.ui.css.swt.theme/themeid=org.eclipse.e4.ui.css.theme.e4_classic
+/instance/org.eclipse.ui.workbench/PLUGINS_NOT_ACTIVATED_ON_STARTUP=org.eclipse.epp.mpc.ui;org.eclipse.equinox.p2.ui.sdk.scheduler;org.eclipse.jst.j2ee.webservice.ui;org.eclipse.jst.ws.jaxws.utils;org.eclipse.m2e.discovery;org.eclipse.mylyn.tasks.ui;org.eclipse.mylyn.team.ui;org.eclipse.rse.ui;org.tigris.subversion.subclipse.tools.usage;
+/instance/org.eclipse.core.resources/encoding=UTF-8
+file_export_version=3.0

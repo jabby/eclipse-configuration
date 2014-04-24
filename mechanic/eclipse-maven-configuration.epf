@@ -1,0 +1,15 @@
+# @title Maven Settings
+# @description Maven Settings : user interface preferences / general configuration
+# @task_type LASTMOD
+/instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime=C\:\\apps\\apache-maven-3.2.1
+/instance/org.eclipse.m2e.core/eclipse.m2.globalSettingsFile=C\:\\apps\\apache-maven-3.2.1\\conf\\settings.xml
+/instance/org.eclipse.m2e.core/eclipse.m2.runtimes=C\:\\apps\\apache-maven-3.2.1
+/instance/org.eclipse.m2e.core/eclipse.m2.defaultPomEditorPage=true
+/instance/org.eclipse.m2e.core/eclipse.m2.downloadJavadoc=true
+/instance/org.eclipse.m2e.core/eclipse.m2.downloadSources=true
+/instance/org.eclipse.m2e.core/eclipse.m2.hideFoldersOfNestedProjects=true
+/instance/org.eclipse.m2e.editor.xml/org.eclipse.m2e.editor.xml.templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+/instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jaxrs.enabler.enabled=true
+/instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jpa.enabler.enabled=true
+/instance/org.eclipse.m2e.wtp/org.eclipse.m2e.wtp.jsf.enabler.enabled=true
+file_export_version=3.0

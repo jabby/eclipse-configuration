@@ -1,0 +1,7 @@
+# @title Maven Settings Platform Dependent
+# @description Maven Settings : installation location
+# @task_type LASTMOD
+/instance/org.eclipse.m2e.core/eclipse.m2.defaultRuntime=C\:\\apps\\apache-maven-3.2.1
+/instance/org.eclipse.m2e.core/eclipse.m2.globalSettingsFile=C\:\\apps\\apache-maven-3.2.1\\conf\\settings.xml
+/instance/org.eclipse.m2e.core/eclipse.m2.runtimes=C\:\\apps\\apache-maven-3.2.1
+file_export_version=3.0

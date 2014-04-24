@@ -1,0 +1,10 @@
+# @title Plugin MoreUnit
+# @description MoreUnit settings for maven project.
+# @task_type LASTMOD
+/instance/org.moreunit/org.moreunit.test.test_methodDefaultContent=Assert.fail();
+/instance/org.moreunit/org.moreunit.junit_path=src/test/java
+/instance/org.moreunit/org.moreunit.preferences.version=2
+/instance/org.moreunit.core/org.moreunit.core.anyLanguage.testFolderPathTemplate=${srcProject}
+/instance/org.moreunit.core/org.moreunit.core.anyLanguage.srcFolderPathTemplate=${srcProject}
+/instance/org.moreunit.core/org.moreunit.core.anyLanguage.testFileNameTemplate=${srcFile}Test
+file_export_version=3.0
