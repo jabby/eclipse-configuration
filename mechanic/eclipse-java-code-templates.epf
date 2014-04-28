@@ -1,0 +1,8 @@
+# @title Java Custom Code templates
+# @description Modification for getters/setters : add link to attributes
+# @task_type LASTMOD
+#
+# Created by the Workspace Mechanic Preference Recorder
+#Mon Apr 28 23:22:36 CEST 2014
+file_export_version=3.0
+/instance/org.eclipse.jdt.ui/org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates><template autoinsert\="false" context\="gettercomment_context" deleted\="false" description\="Comment for getter method" enabled\="true" id\="org.eclipse.jdt.ui.text.codetemplates.gettercomment" name\="gettercomment">/**\r\n * @return the {@link \#${bare_field_name}}\r\n */</template><template autoinsert\="false" context\="settercomment_context" deleted\="false" description\="Comment for setter method" enabled\="true" id\="org.eclipse.jdt.ui.text.codetemplates.settercomment" name\="settercomment">/**\r\n * @param ${param} the {@link \#${bare_field_name}} to set\r\n */</template></templates>
