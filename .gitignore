@@ -1,2 +1,4 @@
 /.project
 /org.eclipse.equinox.security
+/org.eclipse.oomph.p2/
+/org.eclipse.oomph.setup/

@@ -2,12 +2,12 @@
 # @description Type filtering / Escape test when pasting / Favorites Type / Completion overwrite / Content Assist activation / Step Filtering
 # @task_type LASTMOD
 /instance/org.eclipse.debug.core/org.eclipse.debug.core.USE_STEP_FILTERS=true
-/instance/org.eclipse.jdt.debug.ui/org.eclipse.jdt.debug.ui.active_filters=com.ibm.*,com.sun.*,java.*,javax.*,jrockit.*,sun.*,sunw.*,java.lang.ClassLoader
+/instance/org.eclipse.jdt.debug.ui/org.eclipse.jdt.debug.ui.active_filters=com.ibm.*,com.sun.*,java.*,javax.*,jrockit.*,sun.*,sunw.*,java.lang.ClassLoader,org.springframework.*
 /instance/org.eclipse.jdt.debug.ui/org.eclipse.jdt.debug.ui.filter_get=true
 /instance/org.eclipse.jdt.debug.ui/org.eclipse.jdt.debug.ui.filter_setters=true
 /instance/org.eclipse.jdt.debug.ui/org.eclipse.jdt.debug.ui.inactive_filters=org.omg.*
 /instance/org.eclipse.jdt.ui/content_assist_autoactivation_delay=100
-/instance/org.eclipse.jdt.ui/content_assist_autoactivation_triggers_java=._abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890
+/instance/org.eclipse.jdt.ui/content_assist_autoactivation_triggers_java=._
 /instance/org.eclipse.jdt.ui/content_assist_category_order=org.eclipse.jdt.ui.templateProposalCategory\:0\u0000org.eclipse.jdt.ui.swtProposalCategory\:65536\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\:65537\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\:65538\u0000org.eclipse.jdt.ui.textProposalCategory\:65539\u0000org.eclipse.jdt.ui.javaAllProposalCategory\:65540\u0000org.eclipse.jpt.jaxb.ui.jaxbCompletionProposals\:6\u0000org.eclipse.jpt.jpa.ui.jpaProposalCategory\:7\u0000org.eclipse.jst.ws.jaxws.ui.jaxwsProposalComputer\:8\u0000org.eclipse.mylyn.java.ui.javaAllProposalCategory\:9\u0000org.eclipse.pde.api.tools.ui.apitools_proposal_category\:10\u0000
 /instance/org.eclipse.jdt.ui/content_assist_disabled_computers=org.eclipse.jdt.ui.swtProposalCategory\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\u0000org.eclipse.jdt.ui.textProposalCategory\u0000
 /instance/org.eclipse.jdt.ui/content_assist_favorite_static_members=org.mockito.Mockito.*;org.mockito.Matchers.*;org.assertj.core.api.Assertions.*;org.junit.Assert.assertArrayEquals;org.junit.Assert.assertEquals;org.junit.Assert.assertFalse;org.junit.Assert.assertTrue;org.junit.Assert.assertNull;org.junit.Assert.assertNotNull;org.junit.Assert.assertNotSame;org.junit.Assert.assertSame;org.junit.Assert.fail

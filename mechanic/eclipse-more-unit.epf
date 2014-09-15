@@ -7,4 +7,5 @@
 /instance/org.moreunit.core/org.moreunit.core.anyLanguage.testFolderPathTemplate=${srcProject}
 /instance/org.moreunit.core/org.moreunit.core.anyLanguage.srcFolderPathTemplate=${srcProject}
 /instance/org.moreunit.core/org.moreunit.core.anyLanguage.testFileNameTemplate=${srcFile}Test
+/instance/org.moreunit/org.moreunit.extendedTestMethodSearch=true
 file_export_version=3.0
